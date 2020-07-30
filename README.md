@@ -1,7 +1,8 @@
 
 # dl-openvdb-query-sys
 
-Auto-generated Rust bindings for `lib3delight`’s OpenVDB query API.
+Auto-generated Rust bindings for `lib3delight`’s OpenVDB metadata query
+API.
 
 ## Dependencies
 
@@ -10,4 +11,4 @@ Download & install 3Delight for your platform. Linux, macOS & Windows
 are supported.
 
 This crate should not be used directly. It is a thin wrapper used
-by `dl-openvdb-query`.
+by [`dl-openvdb-query`](https://github.com/virtualritz/dl-openvdb-query-sys).
