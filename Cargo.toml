@@ -6,7 +6,7 @@ license = "BSD-3-Clause"
 license-file = "LICENSE.md"
 build = "build.rs"
 edition = "2018"
-description = "Auto-generated Rust bindings for 3Delight’s OpenVDB query API."
+description = "Auto-generated Rust bindings for 3Delight’s OpenVDB metadata query API."
 repository = "https://github.com/virtualritz/dl-openvdb-query-sys"
 
 [features]
