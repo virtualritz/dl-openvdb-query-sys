@@ -11,4 +11,4 @@ Download & install 3Delight for your platform. Linux, macOS & Windows
 are supported.
 
 This crate should not be used directly. It is a thin wrapper used
-by [`dl-openvdb-query`](https://github.com/virtualritz/dl-openvdb-query-sys).
+by [`dl-openvdb-query`](https://github.com/virtualritz/dl-openvdb-query).
