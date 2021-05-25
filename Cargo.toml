@@ -1,9 +1,8 @@
 [package]
 name = "dl-openvdb-query-sys"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Moritz Moeller <virtualritz@protonmail.com>"]
-license = "BSD-3-Clause"
-license-file = "LICENSE.md"
+license = "Apache-2.0 OR BSD-3-Clause OR MIT OR Zlib"
 build = "build.rs"
 edition = "2018"
 description = "Auto-generated Rust bindings for 3Delight’s OpenVDB metadata query API."
@@ -17,8 +16,8 @@ repository = "https://github.com/virtualritz/dl-openvdb-query-sys"
 download_3delight_lib = []
 
 [build-dependencies]
-bindgen = "0.54.1"
+bindgen = "0.58.1"
 
 [build-dependencies.reqwest]
-version = "0.10.7"
+version = "0.11.3"
 features = ["blocking"]
