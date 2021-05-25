@@ -7,6 +7,7 @@ build = "build.rs"
 edition = "2018"
 description = "Auto-generated Rust bindings for 3Delight’s OpenVDB metadata query API."
 repository = "https://github.com/virtualritz/dl-openvdb-query-sys"
+documentation = "https://docs.rs/dl-openvdb-query-sys/"
 
 [features]
 # Whether to download a dynamic library version of 3Delight
